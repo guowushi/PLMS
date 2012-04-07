@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <gateway>
+        <port>3333</port>
+        <ip>127.0.0.1</ip>
+    </gateway>
+    <remote>
+        <ip>127.0.0.1</ip>
+        <port>3005</port>
+    </remote>
+</config>

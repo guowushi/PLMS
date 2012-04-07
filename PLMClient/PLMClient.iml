@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="JDK1.6" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="PLMSCommon" />
+    <orderEntry type="library" name="mina-core-2.0.4" level="application" />
+    <orderEntry type="library" name="forms" level="project" />
+    <orderEntry type="library" name="apache-common" level="application" />
+    <orderEntry type="library" name="idw-gpl" level="application" />
+    <orderEntry type="library" name="jide-oss-3.3.4" level="application" />
+    <orderEntry type="library" name="l2fprod-common" level="application" />
+    <orderEntry type="library" name="log4j-1.2.16" level="application" />
+    <orderEntry type="library" name="simpleeventbus-1.x" level="application" />
+    <orderEntry type="library" name="quicktable2swing11" level="application" />
+    <orderEntry type="library" name="jfreechart-1.0.14" level="application" />
+    <orderEntry type="library" name="lookfeel" level="application" />
+  </component>
+</module>
+

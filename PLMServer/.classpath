@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/PLMServer/src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PLMSCommon"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mina-core-2.0.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Log4J"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/slf4j"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

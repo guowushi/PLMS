@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="PLMS.server.panes.setting_F21">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="FormLayout">
+    <rowspec value="center:d:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <colspec value="fill:d:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:d:grow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:d:grow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:d:grow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <constraints>
+      <xy x="20" y="20" width="592" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="d70af" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="0:00-0:30"/>
+        </properties>
+      </component>
+      <component id="71bd3" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="2:00-2:30"/>
+        </properties>
+      </component>
+      <component id="4277" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="4:00-4:30"/>
+        </properties>
+      </component>
+      <component id="8ff67" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="6:00-6:30"/>
+        </properties>
+      </component>
+      <component id="557c5" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="8:00-8:30"/>
+        </properties>
+      </component>
+      <component id="5a75d" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="10" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="10:00-10:30"/>
+        </properties>
+      </component>
+      <component id="b883b" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="12" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="12:00-12:30"/>
+        </properties>
+      </component>
+      <component id="2d0f1" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="14" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="14:00-14:30"/>
+        </properties>
+      </component>
+      <component id="aacd6" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="16" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="16:00-16:30"/>
+        </properties>
+      </component>
+      <component id="320cc" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="18" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="18:00-18:30"/>
+        </properties>
+      </component>
+      <component id="94d25" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="20" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="20:00-20:30"/>
+        </properties>
+      </component>
+      <component id="73d3c" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="0:30-1:00"/>
+        </properties>
+      </component>
+      <component id="4be19" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="2:30-3:00"/>
+        </properties>
+      </component>
+      <component id="a94fa" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="4:30-5:00"/>
+        </properties>
+      </component>
+      <component id="8aa73" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="6:30-7:00"/>
+        </properties>
+      </component>
+      <component id="b4876" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="8" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="8:30-9:00"/>
+        </properties>
+      </component>
+      <component id="e2a54" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="10" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="10:30-11:00"/>
+        </properties>
+      </component>
+      <component id="2d219" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="12" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="12:30-13:00"/>
+        </properties>
+      </component>
+      <component id="36fda" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="14" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="14:30-15:00"/>
+        </properties>
+      </component>
+      <component id="1c016" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="16" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="16:30-17:00"/>
+        </properties>
+      </component>
+      <component id="faf44" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="18" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="18:30-19:00"/>
+        </properties>
+      </component>
+      <component id="67056" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="20" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="20:30-21:00"/>
+        </properties>
+      </component>
+      <component id="38df9" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="22" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="22:00-22:30"/>
+        </properties>
+      </component>
+      <component id="98f3b" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="1:00-1:30"/>
+        </properties>
+      </component>
+      <component id="ffa97" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="1:30-2:00"/>
+        </properties>
+      </component>
+      <component id="ad31a" class="javax.swing.JComboBox" binding="times08">
+        <constraints>
+          <grid row="2" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="b0f30" class="javax.swing.JComboBox" binding="times01" custom-create="true">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="2f5a3" class="javax.swing.JComboBox" binding="times02" custom-create="true">
+        <constraints>
+          <grid row="0" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="62f03" class="javax.swing.JComboBox" binding="times03">
+        <constraints>
+          <grid row="0" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="b1f28" class="javax.swing.JComboBox" binding="times04">
+        <constraints>
+          <grid row="0" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="5109e" class="javax.swing.JComboBox" binding="times07">
+        <constraints>
+          <grid row="2" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="deee7" class="javax.swing.JComboBox" binding="times11">
+        <constraints>
+          <grid row="4" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="32c21" class="javax.swing.JComboBox" binding="times15">
+        <constraints>
+          <grid row="6" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="74e1f" class="javax.swing.JComboBox" binding="times19">
+        <constraints>
+          <grid row="8" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="3db92" class="javax.swing.JComboBox" binding="times23">
+        <constraints>
+          <grid row="10" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="8e2f5" class="javax.swing.JComboBox" binding="times27">
+        <constraints>
+          <grid row="12" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="36dd1" class="javax.swing.JComboBox" binding="times31">
+        <constraints>
+          <grid row="14" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="89bf6" class="javax.swing.JComboBox" binding="times35">
+        <constraints>
+          <grid row="16" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="8fc17" class="javax.swing.JComboBox" binding="times39">
+        <constraints>
+          <grid row="18" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="82a4d" class="javax.swing.JComboBox" binding="times43">
+        <constraints>
+          <grid row="20" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="14803" class="javax.swing.JComboBox" binding="times47">
+        <constraints>
+          <grid row="22" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="bce2d" class="javax.swing.JComboBox" binding="times12">
+        <constraints>
+          <grid row="4" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="5b3c3" class="javax.swing.JComboBox" binding="times16">
+        <constraints>
+          <grid row="6" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="a915e" class="javax.swing.JComboBox" binding="times20">
+        <constraints>
+          <grid row="8" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="8b4ab" class="javax.swing.JComboBox" binding="times24">
+        <constraints>
+          <grid row="10" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="b7ea4" class="javax.swing.JComboBox" binding="times28">
+        <constraints>
+          <grid row="12" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="72f27" class="javax.swing.JComboBox" binding="times32">
+        <constraints>
+          <grid row="14" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="1cdb1" class="javax.swing.JComboBox" binding="times36">
+        <constraints>
+          <grid row="16" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="3ffee" class="javax.swing.JComboBox" binding="times40">
+        <constraints>
+          <grid row="18" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="6b556" class="javax.swing.JComboBox" binding="times44">
+        <constraints>
+          <grid row="20" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="461d8" class="javax.swing.JComboBox" binding="times48">
+        <constraints>
+          <grid row="22" column="14" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="48945" class="javax.swing.JComboBox" binding="times05">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="f803" class="javax.swing.JComboBox" binding="times06">
+        <constraints>
+          <grid row="2" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="fc6be" class="javax.swing.JComboBox" binding="times09">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="dc365" class="javax.swing.JComboBox" binding="times13">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="276b8" class="javax.swing.JComboBox" binding="times17">
+        <constraints>
+          <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="5bd3" class="javax.swing.JComboBox" binding="times21">
+        <constraints>
+          <grid row="10" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="fc577" class="javax.swing.JComboBox" binding="times25">
+        <constraints>
+          <grid row="12" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="62316" class="javax.swing.JComboBox" binding="times29">
+        <constraints>
+          <grid row="14" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="64caf" class="javax.swing.JComboBox" binding="times33">
+        <constraints>
+          <grid row="16" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="60e88" class="javax.swing.JComboBox" binding="times37">
+        <constraints>
+          <grid row="18" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="630ac" class="javax.swing.JComboBox" binding="times41">
+        <constraints>
+          <grid row="20" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="b9111" class="javax.swing.JComboBox" binding="times45">
+        <constraints>
+          <grid row="22" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="85c4a" class="javax.swing.JComboBox" binding="times10">
+        <constraints>
+          <grid row="4" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="9309a" class="javax.swing.JComboBox" binding="times14">
+        <constraints>
+          <grid row="6" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="8f0d0" class="javax.swing.JComboBox" binding="times18">
+        <constraints>
+          <grid row="8" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="b5706" class="javax.swing.JComboBox" binding="times22">
+        <constraints>
+          <grid row="10" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="347e5" class="javax.swing.JComboBox" binding="times26">
+        <constraints>
+          <grid row="12" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="6dce8" class="javax.swing.JComboBox" binding="times30">
+        <constraints>
+          <grid row="14" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="b9a33" class="javax.swing.JComboBox" binding="times34">
+        <constraints>
+          <grid row="16" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="863ea" class="javax.swing.JComboBox" binding="times38">
+        <constraints>
+          <grid row="18" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="91c9" class="javax.swing.JComboBox" binding="times42">
+        <constraints>
+          <grid row="20" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="a491b" class="javax.swing.JComboBox" binding="times46">
+        <constraints>
+          <grid row="22" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="费率1"/>
+            <item value="费率2"/>
+            <item value="费率3"/>
+            <item value="费率4"/>
+            <item value="费率5"/>
+            <item value="费率6"/>
+            <item value="费率7"/>
+            <item value="费率8"/>
+            <item value="费率9"/>
+            <item value="费率10"/>
+            <item value="费率11"/>
+            <item value="费率12"/>
+            <item value="费率13"/>
+            <item value="费率14"/>
+          </model>
+        </properties>
+      </component>
+      <component id="d8810" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="3:00-3:30"/>
+        </properties>
+      </component>
+      <component id="e27b0" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="3:30-4:00"/>
+        </properties>
+      </component>
+      <component id="dbbc8" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="5:00-5:30"/>
+        </properties>
+      </component>
+      <component id="a2a8e" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="5:30-6:00"/>
+        </properties>
+      </component>
+      <component id="28352" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="22" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="22:30-23:00"/>
+        </properties>
+      </component>
+      <component id="ae7e4" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="7:00-7:30"/>
+        </properties>
+      </component>
+      <component id="803a2" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="8" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="9:00-9:30"/>
+        </properties>
+      </component>
+      <component id="42e14" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="10" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="11:00-11:30"/>
+        </properties>
+      </component>
+      <component id="f58ed" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="12" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="13:00-13:30"/>
+        </properties>
+      </component>
+      <component id="5132" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="14" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="15:00-15:30"/>
+        </properties>
+      </component>
+      <component id="ee02c" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="16" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="17:00-17:30"/>
+        </properties>
+      </component>
+      <component id="fdb3c" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="18" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="19:00-19:30"/>
+        </properties>
+      </component>
+      <component id="7ff64" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="20" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="21:00-21:30"/>
+        </properties>
+      </component>
+      <component id="dbbf8" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="22" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="23:00-23:30"/>
+        </properties>
+      </component>
+      <component id="1b0b1" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="7:30-8:00"/>
+        </properties>
+      </component>
+      <component id="82421" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="8" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="9:30-10:00"/>
+        </properties>
+      </component>
+      <component id="34b52" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="10" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="11:30-12:00"/>
+        </properties>
+      </component>
+      <component id="61d11" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="12" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="13:30-14:00"/>
+        </properties>
+      </component>
+      <component id="48dd5" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="14" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="15:30-16:00"/>
+        </properties>
+      </component>
+      <component id="c61eb" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="16" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="17:30-18:00"/>
+        </properties>
+      </component>
+      <component id="11681" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="18" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="19:30-20:00"/>
+        </properties>
+      </component>
+      <component id="8911a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="20" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="21:30-22:00"/>
+        </properties>
+      </component>
+      <component id="a7892" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="22" column="12" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="23:30-24:00"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

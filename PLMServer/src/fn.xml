@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <afn>
+        <value>AFN00</value>
+        <name>确认/否认</name>
+        <group value="1">
+            <value>1</value>
+            <name>第一组</name>
+            <fn id="F1" name="全部确认"><value>F1</value><name>全部确认</name></fn>
+            <fn id="F2" name="全部否认"/>
+            <fn id="F3" name="按数据单元标识确认和否认"/>
+        </group>
+    </afn>
+    <afn value="AFN04" name="参数设置">
+        <value>AFN04</value>
+        <name>参数设置</name>
+        <group value="1">
+            <value>1</value>
+            <name>第一组</name>
+            <fn id="F1" name="终端通信参数设置"/>
+            <fn id="F2" name="终端中继转发设置"/>
+            <fn id="F3" name="主站 IP 地址和端口"/>
+            <fn id="F4" name="主站电话号码和短信中心号码"/>
+            <fn id="F5" name="终端消息认证参数设置"/>
+            <fn id="F6" name="终端组地址设置"/>
+            <fn id="F7" name="终端抄表日设置"/>
+            <fn id="F8" name="终端事件记录配置设置"/>
+        </group>
+        <group value="2">
+            <value>2</value>
+            <name>第2组</name>
+            <fn id="F9" name="终端配置数量表"/>
+            <fn id="F10" name="终端电能表/交流采样装置配置参数"/>
+            <fn id="F11" name="终端脉冲配置参数"/>
+            <fn id="F13" name="终端电压/电流模拟量配置参数"/>
+            <fn id="F14" name="终端总加组配置参数"/>
+            <fn id="F15" name="有功总电能量差动越限事件参数设置"/>
+            <fn id="F16" name="虚拟专网用户名、密码"/>
+        </group>
+    </afn>
+</config>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <server>
+        <port>3005</port>
+        <ip>0.0.0.0</ip>
+    </server>
+    <AFN value="04" name="参数设置">
+        <GROUP>
+            <F1>
+                <name>终端通信参数设置</name>
+            </F1>
+            <F2>
+                <name>终端通信参数设置</name>
+                <class></class>
+            </F2>
+        </GROUP>
+
+    </AFN>
+
+</config>

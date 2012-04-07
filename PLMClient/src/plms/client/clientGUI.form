@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="plms.client.clientGUI">
+  <splitpane id="5537f" binding="tab1">
+    <constraints>
+      <xy x="20" y="0" width="500" height="420"/>
+    </constraints>
+    <properties>
+      <orientation value="0"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="8b447" class="javax.swing.JTextArea" binding="textArea1" default-binding="true">
+        <constraints>
+          <splitpane position="right"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <grid id="3dbe" layout-manager="FormLayout">
+        <rowspec value="center:max(d;4px):noGrow"/>
+        <rowspec value="top:4dlu:noGrow"/>
+        <rowspec value="center:max(d;4px):noGrow"/>
+        <rowspec value="top:4dlu:noGrow"/>
+        <rowspec value="center:max(d;4px):noGrow"/>
+        <rowspec value="top:4dlu:noGrow"/>
+        <rowspec value="center:max(d;4px):noGrow"/>
+        <rowspec value="top:4dlu:noGrow"/>
+        <rowspec value="center:max(d;4px):noGrow"/>
+        <colspec value="fill:max(d;4px):noGrow"/>
+        <constraints>
+          <splitpane position="left"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="3d5ee" class="javax.swing.JButton" binding="connectButton" default-binding="true">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <forms/>
+            </constraints>
+            <properties>
+              <text value="(1)Connect"/>
+            </properties>
+          </component>
+          <component id="74d1b" class="javax.swing.JButton" binding="loginButton" default-binding="true">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <forms/>
+            </constraints>
+            <properties>
+              <text value="(2)Login"/>
+            </properties>
+          </component>
+          <component id="1014a" class="javax.swing.JButton" binding="keepAliveButton">
+            <constraints>
+              <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <forms/>
+            </constraints>
+            <properties>
+              <text value="(3)KeepAlive"/>
+            </properties>
+          </component>
+          <component id="b9bc4" class="javax.swing.JButton" binding="a4ErrorButton" default-binding="true">
+            <constraints>
+              <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <forms/>
+            </constraints>
+            <properties>
+              <text value="(4)Error"/>
+            </properties>
+          </component>
+          <component id="d3d74" class="javax.swing.JButton" binding="quitButton" default-binding="true">
+            <constraints>
+              <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <forms/>
+            </constraints>
+            <properties>
+              <text value="(5)Quit"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </splitpane>
+  <inspectionSuppressions>
+    <suppress inspection="NoLabelFor" id="e4d26"/>
+  </inspectionSuppressions>
+</form>

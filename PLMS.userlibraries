@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Log4J">
+    <archive path="D:/PLMS/lib/log4j-1.2.161.jar" />
+  </library>
+  <library name="mina-core-2.0.4">
+    <archive path="D:/PLMS/lib/mina-core-2.0.4.jar" />
+  </library>
+  <library name="slf4j">
+    <archive path="D:/快盘/电力管理/apache-mina/slf4j-api-1.6.4.jar" />
+    <archive path="D:/快盘/电力管理/apache-mina/slf4j-log4j12-1.6.4.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <setting_F26>
+        <label1>
+            <name>电压合格上限爱爱爱</name>
+            <tip>必须为0-1000之间的数字</tip>
+        </label1>
+
+    </setting_F26>
+</config>
